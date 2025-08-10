@@ -1,5 +1,5 @@
 // Desafio 1
-alert('Boas vindas ao nosso site!');
+alert('Bem-vindo ao nosso site!');
 
 // Desafio 2
 let nome = 'Pedro';
@@ -21,12 +21,12 @@ let mensagemDeErro = 'Erro! Preencha todos os campos';
 alert(mensagemDeErro);
 
 // Desafio 8
-let nomeUsuario = prompt('Qual o seu nome?');
+let nome = prompt('Digite o seu nome');
 
 // Desafio 9
-let idadeUsuario = prompt('Qual a sua idade?');
+let idade = prompt('Digite a sua idade');
 
 // Desafio 10
-if (idadeUsuario >= 18) {
+if (idade >= 18) {
     alert('Pode tirar a habilitação!');
 }
