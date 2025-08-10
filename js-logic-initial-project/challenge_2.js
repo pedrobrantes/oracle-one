@@ -25,7 +25,7 @@ if (pontuacao >= 100) {
 }
 
 // Desafio 4
-let saldo = 1500; // Example value
+let saldo = 1500;
 alert(`Seu saldo é de R$${saldo}.`);
 
 // Desafio 5
